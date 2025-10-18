@@ -1,5 +1,3 @@
-Here’s your answer restructured to match the same style and depth as your **Normalization vs Denormalization** template.
-
 ---
 
 # ⚖️ Understanding Load Balancing Strategies in Distributed Systems
